@@ -17,12 +17,14 @@ Al cliente se le proporcionó 3 paneles de control:
 ### **Información de contexto**
 Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayudar a PhoneNow, una empresa de telecomunicaciones, en el desarrollo y optimización de sus estrategias de marketing.
 *"La gerente detallo que las KPI´s en lo posible deben incluir: satisfacción general del cliente, total de llamadas contestadas/abandonadas, llamadas por hora, velosidad media de respuesta y cuadrante de desempeño del agente--> tiempo promedio de manejo(duración de la conversación) vs llamadas respondidas"*
-<es>
+
+<br>
 <p align="center">
-<kbd> <imagen width="800" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
-  Imagen 1: Comunicación de la Designación <br>
+<kbd> <imagen width="80" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
+  Imagen 1: Comunicación de la Designación
 </p>
-<es>
+  
+<br>
 
 ### **Objetivos**
 - Crear un panel de Power BI para visualizar indicadores clave de rendimiento (KPI) y métricas.
