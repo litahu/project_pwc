@@ -16,6 +16,7 @@ Al cliente se le proporcionó 3 paneles de control:
 
 ### **Información de contexto**
 Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayudar a PhoneNow, una empresa de telecomunicaciones, en el desarrollo y optimización de sus estrategias de marketing. <br>
+
 *"La gerente detallo que las KPI´s en lo posible deben incluir: satisfacción general del cliente, total de llamadas contestadas/abandonadas, llamadas por hora, velosidad media de respuesta y cuadrante de desempeño del agente--> tiempo promedio de manejo(duración de la conversación) vs llamadas respondidas"*
 
 <p align="center">
@@ -37,29 +38,56 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
 ## 📂 Tarea 2: Retención de clientes
 
 ### **Información de contexto**
-La industria de telecomunicaciones es muy agil, por lo que la empresa ha decidido organizar una estrategia para no perderlos. De ese modo, el gerente de retención de telecomunicaciones programó una reunión con el socio de participación en PwC para cubrir los siguientes puntos:  
-- Quieren saber más sobre sus clientes
+La industria de telecomunicaciones es muy ágil, por lo que la empresa ha decidido organizar una estrategia para no perderlos. De ese modo, el gerente de retención de telecomunicaciones programó una reunión con el socio de participación en PWC para cubrir los siguientes puntos:  
+- Quieren saber más sobre sus clientes y recuperar a los clientes en caso de despido
+- Identificar a los clientes están en riesgo para evitar llamadas reaccionarias
 
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i2_task.JPG"></kbd> <br>
+  Imagen 2: El Gerente de Retenciones ha proporcionado cierta información en los recursos
+</p>
 
-El Gerente de Retenciones ha proporcionado cierta información:
-- demográficos de los clientes
-
+<br>
 
 ### **Objetivos**
-- Definir indicadores clave de rendimiento (KPI) relacionados con la retención de clientes
-- Crear un panel de control utilizando los KPI definidos para reflejar la demografía y la información de los clientes.
+- Definir indicadores clave de rendimiento(KPI) adecuados
+- Crear un panel para el administrador de retención que refleje los KPI
+- Escríbale un breve correo electrónico (al socio a cargo) explicando sus hallazgos e incluyendo sugerencias sobre lo que se debe cambiar.
 
 ### **Resultado**
 
 
 
 
-## 📂 Tarea 3: Tendencias del Call Center
+## 📂 Tarea 3: Diversidad e inclusión corporativa
 
 ### **Información de contexto**
-
+El departamento de Recursos Humanos de nuestro cliente de telecomunicaciones está muy comprometido con la diversidad y la inclusión. Han trabajado arduamente para mejorar el equilibrio de género en el nivel de gestión ejecutiva, pero no ven ningún progreso. Nos están pidiendo ayuda. En PwC Suiza, detectamos que la empresa necesita una plantilla con talentos y trayectorias diversas para triunfar en un mundo cada vez más complejo y heterogéneo. [Ver](https://www.pwc.ch/en/services/people-organisation/diversity-and-inclusion.html)
+<br>
+Calcular medidas que podría ayudar a definir los KPI adecuados:
+- # de hombres
+- # de mujeres
+- Número de egresados
+- % de empleados promovidos (año fiscal 21)
+- % de mujeres promovidas
+- % de contrataciones de hombres
+- % de contrataciones de mujeres
+- % facturación 
+- Calificación promedio de desempeño: hombres
+- Calificación de desempeño promedio: mujeres
 
 ### **Objetivos**
+- Definir indicadores clave de desempeño (KPI) relacionados con el equilibrio de género y la diversidad.
+- Crear visualizaciones que representen datos de RRHH de manera eficaz.
+- Identificar y discutir las posibles causas fundamentales del lento progreso en el logro del equilibrio de género en el nivel de gestión ejecutiva.
 
 ### **Resultado**
+
+
+
+
+
+
+
+
 
