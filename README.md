@@ -1,6 +1,6 @@
 # Experiencia de pasantía virtual en consultoría de análisis de datos - PWC suiza
-Visualización: Power BI
-Conjunto de datos fuente: PWC suiza
+Visualización: Power BI<es>
+Conjunto de datos fuente: PWC suiza<es>
 
 ## 📂 Descripción General
 PWC suiza es una organización global de firmas profesionales independientes que brinda una variedad de servicios a organizaciones de diversas industrias, gobiernos y sectores sin fines de lucro. Sus áreas de servicios incluyen auditorías, aseguramiento y consultoría de riesgos; transacciones, impuestos y asuntos legales; consultoría de gestión; e innovación y soluciones digitales.
@@ -17,6 +17,11 @@ Al cliente se le proporcionó 3 paneles de control:
 ### **Información de contexto**
 Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayudar a PhoneNow, una empresa de telecomunicaciones, en el desarrollo y optimización de sus estrategias de marketing.
 *"La gerente detallo que las KPI´s en lo posible deben incluir: satisfacción general del cliente, total de llamadas contestadas/abandonadas, llamadas por hora, velosidad media de respuesta y cuadrante de desempeño del agente--> tiempo promedio de manejo(duración de la conversación) vs llamadas respondidas"*
+<es>
+<pag alinear="centro">
+<kbd><imagen ancho="800" alt="Tabla de muestra RFM" origen:"https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG">  </kbd> <es>
+  Imagen 1: Gerenta comunicando la Designación 
+</pag>
 <es>
 
 ### **Objetivos**
