@@ -21,7 +21,7 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
 <br>
 
 <p align="center">
-  <kbd> <img width="500" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
   Imagen 1: Comunicación de la Designación
 </p>
   
