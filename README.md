@@ -60,18 +60,17 @@ La industria de telecomunicaciones es muy ágil, por lo que la empresa ha decidi
 ### **Información de contexto**
 El departamento de Recursos Humanos de nuestro cliente de telecomunicaciones está muy comprometido con la diversidad y la inclusión. Han trabajado arduamente para mejorar el equilibrio de género en el nivel de gestión ejecutiva, pero no ven ningún progreso. Nos están pidiendo ayuda. En PwC Suiza, detectamos que la empresa necesita una plantilla con talentos y trayectorias diversas para triunfar en un mundo cada vez más complejo y heterogéneo. [Ver](https://www.pwc.ch/en/services/people-organisation/diversity-and-inclusion.html)
 
-<br>
-Calcular medidas que podría ayudar a definir los KPI adecuados:
-- Nº de hombres
-- Nº de mujeres
-- Número de egresados
-- % de empleados promovidos (año fiscal 21)
-- % de mujeres promovidas
-- % de contrataciones de hombres
-- % de contrataciones de mujeres
-- % facturación 
-- Calificación promedio de desempeño: hombres
-- Calificación de desempeño promedio: mujeres
+Calcular medidas que podría ayudar a definir los KPI adecuados:<br>
+- Nº de hombres<br>
+- Nº de mujeres<br>
+- Número de egresados<br>
+- % de empleados promovidos (año fiscal 21)<br>
+- % de mujeres promovidas<br>
+- % de contrataciones de hombres<br>
+- % de contrataciones de mujeres<br>
+- % facturación <br>
+- Calificación promedio de desempeño: hombres<br>
+- Calificación de desempeño promedio: mujeres<br>
 
 ### **Objetivos**
 - Definir indicadores clave de desempeño (KPI) relacionados con el equilibrio de género y la diversidad(contratación, promoción, desempeño y rotación)
