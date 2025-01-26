@@ -15,10 +15,8 @@ Al cliente se le proporcionó 3 paneles de control:
 ## 📂 Tarea 1: Tendencias del Call Center
 
 ### **Información de contexto**
-Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayudar a PhoneNow, una empresa de telecomunicaciones, en el desarrollo y optimización de sus estrategias de marketing.
+Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayudar a PhoneNow, una empresa de telecomunicaciones, en el desarrollo y optimización de sus estrategias de marketing. <br>
 *"La gerente detallo que las KPI´s en lo posible deben incluir: satisfacción general del cliente, total de llamadas contestadas/abandonadas, llamadas por hora, velosidad media de respuesta y cuadrante de desempeño del agente--> tiempo promedio de manejo(duración de la conversación) vs llamadas respondidas"*
-
-<br>
 
 <p align="center">
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i1_task.JPG"></kbd> <br>
