@@ -1,6 +1,6 @@
 # Experiencia de pasantía virtual en consultoría de análisis de datos - PWC suiza
-Visualización: Power BI<es>
-Conjunto de datos fuente: PWC suiza<es>
+Visualización: Power BI <br>
+Conjunto de datos fuente: PWC suiza<br>
 
 ## 📂 Descripción General
 PWC suiza es una organización global de firmas profesionales independientes que brinda una variedad de servicios a organizaciones de diversas industrias, gobiernos y sectores sin fines de lucro. Sus áreas de servicios incluyen auditorías, aseguramiento y consultoría de riesgos; transacciones, impuestos y asuntos legales; consultoría de gestión; e innovación y soluciones digitales.
@@ -23,8 +23,6 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i1_task.JPG"></kbd> <br>
   Imagen 1: Comunicación de la Designación
 </p>
-  
-<br>
 
 ### **Objetivos**
 - Crear un panel de Power BI para visualizar indicadores clave de rendimiento (KPI) y métricas.
@@ -46,8 +44,6 @@ La industria de telecomunicaciones es muy ágil, por lo que la empresa ha decidi
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i2_task.JPG"></kbd> <br>
   Imagen 2: El Gerente de Retenciones ha proporcionado cierta información en los recursos
 </p>
-
-<br>
 
 ### **Objetivos**
 - Definir indicadores clave de rendimiento(KPI) adecuados
