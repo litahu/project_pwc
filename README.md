@@ -19,8 +19,9 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
 *"La gerente detallo que las KPI´s en lo posible deben incluir: satisfacción general del cliente, total de llamadas contestadas/abandonadas, llamadas por hora, velosidad media de respuesta y cuadrante de desempeño del agente--> tiempo promedio de manejo(duración de la conversación) vs llamadas respondidas"*
 
 <br>
+
 <p align="center">
-  <kbd> <imagen width="800" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
+  <kbd> <imagen width="500" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/i_task1.JPG"></kbd> <br>
   Imagen 1: Comunicación de la Designación
 </p>
   
