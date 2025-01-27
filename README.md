@@ -33,7 +33,7 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2..JPG"></kbd> <br>
 </p>
 
-
+<br>
 
 ## 📂 Tarea 2: Retención de clientes
 
@@ -63,6 +63,7 @@ La industria de telecomunicaciones es muy ágil, por lo que la empresa ha decidi
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2.2.JPG"></kbd> <br>
 </p>
 
+<br>
 
 ## 📂 Tarea 3: Diversidad e inclusión corporativa
 
@@ -104,6 +105,7 @@ Calcular medidas que podría ayudar a definir los KPI adecuados:<br>
   <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_3.1.JPG"></kbd> <br>
 </p>
 
+<br>
 
 
 
