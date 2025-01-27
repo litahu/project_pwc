@@ -29,7 +29,9 @@ Dentro del area de trabajo, analizaremos eficazmente conjuntos de datos para ayu
 - Identificar estrategias para mitigar los problemas que se lleguen a detectar
 
 ### **Resultado**
-
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2..JPG"></kbd> <br>
+</p>
 
 
 
@@ -51,8 +53,15 @@ La industria de telecomunicaciones es muy ágil, por lo que la empresa ha decidi
 - Escríbale un breve correo electrónico (al socio a cargo) explicando sus hallazgos e incluyendo sugerencias sobre lo que se debe cambiar.
 
 ### **Resultado**
-
-
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2.0.JPG"></kbd> <br>
+</p>
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2.1.JPG"></kbd> <br>
+</p>
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_2.2.JPG"></kbd> <br>
+</p>
 
 
 ## 📂 Tarea 3: Diversidad e inclusión corporativa
@@ -86,7 +95,14 @@ Calcular medidas que podría ayudar a definir los KPI adecuados:<br>
 
 
 ### **Resultado**
-
+</p>
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_3.JPG"></kbd> <br>
+</p>
+</p>
+<p align="center">
+  <kbd> <img width="900" alt="eer" src="https://github.com/litahu/project_pwc/blob/main/activos/homework_3.1.JPG"></kbd> <br>
+</p>
 
 
 
